@@ -1,9 +1,6 @@
 # BeijingDataAnalysisRealEstate
 
-![Beijing Data Analysis Real Estate](https://via.placeholder.com/1200x300.png?text=Beijing+Data+Analysis+Real+Estate)  
-*Harnessing Data Analysis to Decode Beijing’s Housing Market*
 
----
 
 ## Overview
 
